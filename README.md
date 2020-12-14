@@ -16,3 +16,16 @@ To run the example script, please use:
 ```
 $ root -l plotFit.C
 ```
+
+## Development
+To make changes in the repositiory, please commit first the changes localy:
+```
+commit -a -m "My very important commit"
+```
+
+And push it to the remote repository in the second step:
+```
+git push
+```
+
+From that time, the modification should be visible at the github webpage.
